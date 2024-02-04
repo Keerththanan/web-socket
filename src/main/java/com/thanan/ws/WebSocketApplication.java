@@ -7,8 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class WebSocketApplication {
 
 	public static void main(String[] args) {
-		System.out.println("KeerthThanan");
 		SpringApplication.run(WebSocketApplication.class, args);
 	}
-
 }
