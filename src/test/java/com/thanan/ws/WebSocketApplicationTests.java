@@ -9,5 +9,4 @@ class WebSocketApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
